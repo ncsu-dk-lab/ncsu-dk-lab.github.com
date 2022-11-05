@@ -1,0 +1,114 @@
+{
+  "director": [
+    {
+      "name": "Dongkuan (DK) Xu",
+      "mail": "dxu27[at]ncsu[dot]edu",
+      "homepage": "http://personal.psu.edu/dux19/",
+      "major": "Efficient AI",
+      "pic": "../../assets/peoples/DongkuanXu.jpg",
+      "pos": "Assistant Professor @ NCSU CS",
+      "address": "Raleigh, NC 27695",
+      "scholarlink": "https://scholar.google.com/citations?user=2mJ7jpcAAAAJ&hl=en",
+      "twitterlink": "https://twitter.com/DongkuanXu"
+    }
+  ],
+  "phd": {
+    "2022": [
+      {
+        "name": "Jianwei Li",
+        "mail": "ljw040426[at]gmail.com",
+        "homepage": "https://jianwei.gatsbyjs.io/",
+        "major": "Sparse Computing",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/JianweiLi.jpg?raw=true"
+      },
+      {
+        "name": "Jie Zhang",
+        "mail": "zj_zhangjie[at]zju.edu.cn",
+        "homepage": "https://github.com/jhjiezhang",
+        "major": "Data Efficiency ",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/JieZhang.jpg?raw=true"
+      },
+      {
+        "name": "Weizhi Gao",
+        "mail": "gaoweizhi20[at]mails.ucas.edu.cn",
+        "homepage": "https://weizhigao.github.io/",
+        "major": "Reliable tiny models",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/WeizhiGao.png?raw=true"
+      },
+      {
+        "name": "Shengkun Tang",
+        "mail": "shengkuntangwork[at]gmail.com",
+        "homepage": "https://github.com/Tangshengku",
+        "major": "Multi-Modal Efficient Learning",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/ShengkunTang.jpeg?raw=true"
+      },
+      {
+        "name": "Bowen Lei (Co)",
+        "mail": "bowenlei@stat.tamu.edu",
+        "homepage": "https://stevenboys.github.io/",
+        "major": "Reliable deep learning",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/BowenLei.jpeg?raw=true"
+      },
+      {
+        "name": "Shaoyi Huang (Co)",
+        "mail": "shaoyi.huang@uconn.edu",
+        "homepage": "https://www.shaoyihuang.com/",
+        "major": "software/hardware co-design",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/ShaoyiHuang.jpg?raw=true"
+      },
+      {
+        "name": "Shuren He (Co)",
+        "mail": "heshuren987@gmail.com",
+        "homepage": "https://github.com/DriWater",
+        "major": "Sparse training",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/ShurenHe.jpg?raw=true"
+      },
+      {
+        "name": "Zhenglun Kong (Co)",
+        "mail": "kong.zhe@northeastern.edu",
+        "homepage": "https://github.com/ZLKong",
+        "major": "Model Compressio",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/ZhenglunKong.jpeg?raw=true"
+      }
+    ]
+  },
+  "master": {
+    "2022": [
+      {
+        "name": "Xukun Liu",
+        "mail": "liuxk2019@mail.sustech.edu.cn",
+        "homepage": "https://github.com/liuxukun2000",
+        "major": "NAS",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/XukunLiu.jpg?raw=true"
+      },
+      {
+        "name": "Shuya Li",
+        "mail": "729481289@qq.com",
+        "homepage": "google.com",
+        "major": "Efficient Traffic",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/ShuyaLi.jpeg?raw=true"
+      },
+      {
+        "name": "Yanbo Fang",
+        "mail": "yanbofang0822@gmail.com",
+        "homepage": "https://github.com/kz209",
+        "major": "Representation Learning",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/YanboFang.JPG?raw=true"
+      },
+      {
+        "name": "Lei Zhang",
+        "mail": "stonermaxzl@gmail.com",
+        "homepage": "https://github.com/StonERMax",
+        "major": "Efficient dataset condensation",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/LeiZhang.jpg?raw=true"
+      },
+      {
+        "name": "Xuelin Kong",
+        "mail": "e1011066@u.nus.edu",
+        "homepage": "https://github.com/XL-Kong",
+        "major": "Instance segmentation",
+        "pic": "https://github.com/ncsu-dk-lab/lab-home/blob/main/src/assets/peoples/XuelinKong.jpg?raw=true"
+      }
+    ]
+  }
+}
